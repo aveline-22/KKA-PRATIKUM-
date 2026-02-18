@@ -1,9 +1,9 @@
 # Sistem Pertarungan Game (Battle System) Sederhana Menggunakan Konsep Polymorphism pada Python
 
-Nama: Aveline Voleta Wardani
-Kelas: XI RPL 1
-Mata Pelajaran: Koding dan Kecerdasan Artifisial (KKA)
-Bahasa Pemrograman: Python
+### Nama: Aveline Voleta Wardani
+### Kelas: XI RPL 1
+### Mata Pelajaran: Koding dan Kecerdasan Artifisial (KKA)
+### Bahasa Pemrograman: Python
 
 ## 🧙‍♂️ Python RPG OOP Game
 
@@ -205,3 +205,4 @@ Akibatnya:
 
 
 ## - TERIMAKASIH - 
+
